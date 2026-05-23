@@ -274,3 +274,4 @@ SC3_UID（可选）: 若不填会从SC3_SENDKEY自动解析。（形如 12345）
 
 
 
+# Auto-sign configured
